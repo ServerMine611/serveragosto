@@ -348,6 +348,7 @@
       "cooked_rabbit": "2025-09-07 18:12:26 +0000",
       "cooked_chicken": "2025-09-07 00:28:45 +0000",
       "cooked_mutton": "2025-09-07 00:02:24 +0000",
+      "cooked_beef": "2025-09-07 18:24:42 +0000",
       "melon_slice": "2025-09-06 23:45:55 +0000"
     },
     "done": false
@@ -612,6 +613,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-09-07 18:24:23 +0000",
       "minecraft:spider": "2025-09-07 17:47:08 +0000",
       "minecraft:zombie": "2025-09-07 00:27:30 +0000",
       "minecraft:creeper": "2025-09-07 18:04:56 +0000",
@@ -1441,6 +1443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-07 18:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-09-07 17:46:27 +0000"
@@ -1591,6 +1599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-07 18:24:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-07 17:52:01 +0000"
@@ -1711,6 +1725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-09-07 18:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-09-07 18:11:56 +0000"
@@ -1810,6 +1830,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-07 17:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-07 18:40:32 +0000"
     },
     "done": true
   },

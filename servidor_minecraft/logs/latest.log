@@ -44,3 +44,16 @@
 [17:43:52] [Server thread/INFO]: T-800 joined the game
 [17:58:44] [Server thread/INFO]: T-800 has made the advancement [Diamonds!]
 [18:11:30] [Server thread/INFO]: T-800 has made the advancement [Suit Up]
+[18:50:15] [Server thread/INFO]: T-800 lost connection: Disconnected
+[18:50:15] [Server thread/INFO]: T-800 left the game
+[18:50:37] [Server thread/INFO]: Stopping the server
+[18:50:37] [Server thread/INFO]: Stopping server
+[18:50:37] [Server thread/INFO]: Saving players
+[18:50:37] [Server thread/INFO]: Saving worlds
+[18:50:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:50:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:50:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:50:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:50:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:50:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:50:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
