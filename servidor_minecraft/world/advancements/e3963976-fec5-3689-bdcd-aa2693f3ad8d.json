@@ -1912,5 +1912,77 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-09-09 00:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-09-09 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-09 00:24:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
